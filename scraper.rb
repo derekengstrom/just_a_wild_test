@@ -1,3 +1,4 @@
+require 'scraperwiki'
 # Blank Ruby
 # encoding: utf-8
 
