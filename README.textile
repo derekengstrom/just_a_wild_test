@@ -1,0 +1,2 @@
+This scraper will help you to export data from your bit.ly account.
+You can after save it as a CSV in excel.
